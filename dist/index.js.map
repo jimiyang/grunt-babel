@@ -1,0 +1,1 @@
+{"version":3,"sources":["../js/index.js"],"names":["Index","type"],"mappings":";;;;;;IAAOA,K;AACN,gBAAYC,IAAZ,EAAiB;AAAA;;AAChB,OAAKA,IAAL,GAAUA,IAAV;AACA;;;;6BACS;;AAET,iCAAa,KAAKA,IAAlB;AACA","file":"index.js","sourcesContent":["﻿class Index{\r\n\tconstructor(type){\r\n\t\tthis.type=type;\r\n\t}\r\n\tsayhello(){\r\n\t\t\r\n\t\treturn `管理员${this.type}`;\r\n\t}\r\n\t\r\n}"]}
